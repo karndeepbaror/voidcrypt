@@ -69,7 +69,7 @@ We welcome contributions to strengthen the engine. Please check the Contributing
   
   <br>
   
-  [![WhatsApp Community](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://whatsapp.com/channel/0029Vb6plDSBKfi3qGz2fq0f)
+  [![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Join%20Community-7289DA?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6plDSBKfi3qGz2fq0f)
   [![Telegram](https://img.shields.io/badge/Telegram-Shadow%20Network-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptonicArea)
   
   <br>
