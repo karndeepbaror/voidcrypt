@@ -50,6 +50,33 @@ pip install -r requirements.txt
 python voidcrypt.py
 ```
 
+---
+
+## 🌐 Join Our Cyber-Intelligence Community
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  
+  ### 🚀 **CONNECT WITH THE CRYPTONIC AREA**
+  *Join a network of Security Researchers, Developers, and Ethical Hackers.*
+  
+  <br>
+  
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
+  [![Telegram](https://img.shields.io/badge/Telegram-Shadow%20Network-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
+  
+  <br>
+  
+  > **"Security is not a product, but a process. Be part of the evolution."**
+  
+ 
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+---
+
+
 ## 🤝 Contributing
 
 We welcome contributions to strengthen the engine. Please check the Contributing Guidelines before submitting a Pull Request.
@@ -57,3 +84,11 @@ We welcome contributions to strengthen the engine. Please check the Contributing
 ## 📜 License & Legal
 This project is licensed under the MIT License.
 Disclaimer: VOID-CRYPT is intended for legal security auditing and personal privacy. The developer is not responsible for any misuse or data loss.
+
+## 🔗 CONNECT WITH ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karndeepbaror)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karndeepbaror)
+[![Community](https://img.shields.io/badge/Community-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://whatsapp.com/channel/0029Vb6plDSBKfi3qGz2fq0f)
+
+**"In the world of zero-days, I build zero-trust."**
