@@ -34,6 +34,8 @@ Standard file deletion only removes the pointer to the data. VOID-CRYPT's **Shre
 3.  **Entropy Injection:** Final pass with high-entropy random bytes to neutralize residual magnetic traces.
 
 ---
+![IMG_20260215_190431](https://github.com/user-attachments/assets/8045b64c-dafd-4a3b-8b9a-25d5cbfe75d0)
+---
 
 ## 🚀 Quick Start
 
