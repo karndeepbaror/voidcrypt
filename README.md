@@ -54,6 +54,11 @@ python voidcrypt.py
 
 ---
 
+
+## 🤝 Contributing
+
+We welcome contributions to strengthen the engine. Please check the Contributing Guidelines before submitting a Pull Request.
+
 ## 🌐 Join Our Cyber-Intelligence Community
 
 <div align="center">
@@ -78,10 +83,6 @@ python voidcrypt.py
 
 ---
 
-
-## 🤝 Contributing
-
-We welcome contributions to strengthen the engine. Please check the Contributing Guidelines before submitting a Pull Request.
 
 ## 📜 License & Legal
 This project is licensed under the MIT License.
