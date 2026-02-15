@@ -1,0 +1,6 @@
+# VOID-CRYPT Security Suite Dependencies
+# Install using: pip install -r requirements.txt
+
+cryptography>=41.0.0
+rich>=13.5.0
+Pillow>=10.0.0
