@@ -64,8 +64,8 @@ python voidcrypt.py
   
   <br>
   
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
-  [![Telegram](https://img.shields.io/badge/Telegram-Shadow%20Network-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
+  [![WhatsApp Community](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://whatsapp.com/channel/0029Vb6plDSBKfi3qGz2fq0f)
+  [![Telegram](https://img.shields.io/badge/Telegram-Shadow%20Network-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptonicArea)
   
   <br>
   
